@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of giladx/hebrew-translation.** Not for installation: use [Packagist](https://packagist.org/packages/giladx/hebrew-translation) or the [upstream repository](https://github.com/Giladx/flabrew).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/giladx-hebrew-translation/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0`
+**1** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/giladx-hebrew-translation/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.1` | 2020-05-23 | `^0.1.0` | [Browse](https://github.com/flarchive/giladx-hebrew-translation/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/giladx-hebrew-translation.json](https://github.com/flarchive/archive-index/blob/main/packages/giladx-hebrew-translation.json)
 
